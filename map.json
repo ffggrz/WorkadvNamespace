@@ -491,7 +491,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.freifunk-gera-greiz.de"
+                         "value":"https:\/\/de.wikipedia.org\/wiki\/Wikipedia:Hauptseite"
                         }],
                  "rotation":0,
                  "visible":true,
