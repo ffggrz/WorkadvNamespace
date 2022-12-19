@@ -467,7 +467,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":39,
+                 "height":52,
                  "id":17,
                  "name":"Briefkasten",
                  "properties":[
@@ -478,8 +478,8 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":60,
-                 "x":1249,
+                 "width":80,
+                 "x":1239,
                  "y":1025
                 }, 
                 {
@@ -491,7 +491,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.freifunk-gera-greiz.de\/"
+                         "value":"https:\/\/www.freifunk-gera-greiz.de"
                         }],
                  "rotation":0,
                  "visible":true,
