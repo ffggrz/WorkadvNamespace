@@ -514,7 +514,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/toene\/Lagerfeuer1.mp3"
+                         "value":"toene\/Lagerfeuer1.mp3"
                         }],
                  "rotation":0,
                  "visible":true,
