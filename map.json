@@ -498,6 +498,29 @@
                  "width":107,
                  "x":1481,
                  "y":1018
+                }, 
+                {
+                 "class":"area",
+                 "ellipse":true,
+                 "height":129,
+                 "id":19,
+                 "name":"Feuer",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/toene\/Lagerfeuer1.mp3"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":142,
+                 "x":296,
+                 "y":719
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -612,7 +635,7 @@
          "y":0
         }],
  "nextlayerid":58,
- "nextobjectid":19,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
