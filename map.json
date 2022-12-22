@@ -514,7 +514,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/www.gartenanlage-zaufensgraben.de\/images\/Lagerfeuer1.mp3"
+                         "value":"Lagerfeuer1.mp3=raw"
                         }],
                  "rotation":0,
                  "visible":true,
