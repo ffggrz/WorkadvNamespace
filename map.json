@@ -165,7 +165,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"kanal1.json#anfang"
+                 "value":"kanal1.json#anfang&moveTo=raus"
                 }],
          "type":"tilelayer",
          "visible":true,

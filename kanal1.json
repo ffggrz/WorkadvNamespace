@@ -64,7 +64,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"namespace.json#klo&moveTo=raus"
+                 "value":"namespace.json#klo"
                 }],
          "type":"tilelayer",
          "visible":true,
