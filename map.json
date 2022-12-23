@@ -526,7 +526,7 @@
                  "class":"area",
                  "height":38.6666666666667,
                  "id":22,
-                 "name":"Wald",
+                 "name":"Wald1",
                  "rotation":0,
                  "visible":true,
                  "width":98,
@@ -540,9 +540,20 @@
                  "name":"Waldtext",
                  "rotation":0,
                  "visible":true,
-                 "width":95.3333333333334,
-                 "x":879.333333333333,
-                 "y":976.666666666667
+                 "width":401.333333333333,
+                 "x":842,
+                 "y":935.333333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":38.6666666666665,
+                 "id":25,
+                 "name":"Wald2",
+                 "rotation":0,
+                 "visible":true,
+                 "width":122,
+                 "x":1054.66666666667,
+                 "y":1038
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -657,7 +668,7 @@
          "y":0
         }],
  "nextlayerid":58,
- "nextobjectid":25,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {
