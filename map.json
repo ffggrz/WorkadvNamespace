@@ -514,13 +514,35 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/github.com\/HendrikW78\/Workadv2\/blob\/master\/Lagerfeuer1.mp3?raw=true"
+                         "value":"https:\/\/github.com\/HendrikW78\/Workadv2\/blob\/master\/toene\/Lagerfeuer1.mp3?raw=true"
                         }],
                  "rotation":0,
                  "visible":true,
                  "width":142,
                  "x":296,
                  "y":719
+                }, 
+                {
+                 "class":"area",
+                 "height":38.6666666666667,
+                 "id":22,
+                 "name":"Wald",
+                 "rotation":0,
+                 "visible":true,
+                 "width":98,
+                 "x":878,
+                 "y":1036.66666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":38,
+                 "id":23,
+                 "name":"Waldtext",
+                 "rotation":0,
+                 "visible":true,
+                 "width":95.3333333333334,
+                 "x":879.333333333333,
+                 "y":976.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -635,7 +657,7 @@
          "y":0
         }],
  "nextlayerid":58,
- "nextobjectid":22,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
