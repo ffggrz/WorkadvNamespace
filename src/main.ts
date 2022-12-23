@@ -27,7 +27,7 @@ WA.onInit().then(() => {
     WA.room.area.onLeave('Wald1').subscribe(closePopup)
 
     WA.room.area.onEnter('Wald2').subscribe(() => {
-        currentPopup = WA.ui.openPopup("hier ruht Ruth","Baum",[]);
+        currentPopup = WA.ui.openPopup("Waldtext","hier ruht Ruth",[]);
     })
 
     WA.room.area.onLeave('Wald2').subscribe(closePopup)
