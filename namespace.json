@@ -219,7 +219,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.json#namespace"
+                         "value":"map.json#entryNamespace"
                         }],
                  "type":"tilelayer",
                  "visible":true,

@@ -109,7 +109,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"namespace.json#namespace"
+                         "value":"namespace.json#startAnfang"
                         }],
                  "type":"tilelayer",
                  "visible":true,
