@@ -1,4 +1,5 @@
 /// <reference types="@workadventure/iframe-api-typings" />
+// Namespace
 
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
