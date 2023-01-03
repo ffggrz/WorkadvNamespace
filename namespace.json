@@ -621,7 +621,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/github.com\/ffggrz\/WorkadvNamespace\/master\/toene\/Meeresrauschen2.mp3?raw=true"
+                         "value":"https:\/\/github.com\/ffggrz\/WorkadvNamespace\/blob\/master\/toene\/Meeresrauschen2.mp3?raw=true"
                         }],
                  "rotation":0,
                  "visible":true,
