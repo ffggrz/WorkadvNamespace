@@ -33,7 +33,11 @@ WA.onInit().then(() => {
 
     WA.room.area.onLeave('Wald2').subscribe(closePopup)
 
+    WA.room.area.onEnter('KrautExit').subscribe(() => {
+        currentPopup = WA.ui.openPopup("KrautPop","Ausgang zur Krautworld",[]);
+    })
 
+    WA.room.area.onLeave('KrautExit').subscribe(closePopup)
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
