@@ -632,87 +632,6 @@
          "objects":[
                 {
                  "class":"area",
-                 "height":128,
-                 "id":13,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":192,
-                 "x":1716,
-                 "y":626
-                }, 
-                {
-                 "class":"area",
-                 "height":128,
-                 "id":14,
-                 "name":"silentZone",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":224,
-                 "x":1693,
-                 "y":793
-                }, 
-                {
-                 "class":"area",
-                 "height":224,
-                 "id":16,
-                 "name":"jitsiMeetingRoom",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":192,
-                 "x":1714,
-                 "y":334
-                }, 
-                {
-                 "class":"area",
                  "height":52,
                  "id":17,
                  "name":"Briefkasten",
@@ -760,7 +679,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/github.com\/HendrikW78\/Workadv2\/blob\/master\/toene\/Lagerfeuer1.mp3?raw=true"
+                         "value":"https:\/\/github.com\/ffggrz\/WorkadvNamespace\/blob\/master\/toene\/Lagerfeuer1.mp3?raw=true"
                         }],
                  "rotation":0,
                  "visible":true,
