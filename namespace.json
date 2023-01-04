@@ -759,6 +759,23 @@
                  "width":75.6666666666667,
                  "x":405.666666666667,
                  "y":1075.33333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":160,
+                 "id":21,
+                 "name":"Foto",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/www.freifunk-gera-greiz.de\/images\/stories\/20221219-wlan-krone\/IMG_20221207_204510-2.jpg"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":190.666666666667,
+                 "x":672,
+                 "y":672
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -920,7 +937,7 @@
          "y":0
         }],
  "nextlayerid":64,
- "nextobjectid":21,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
