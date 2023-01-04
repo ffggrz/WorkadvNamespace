@@ -50,6 +50,17 @@
                  "id":6,
                  "name":"start",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"audioCopyright",
+                         "type":"string",
+                         "value":"KlingKlang"
+                        }, 
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"TileLayer"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":30,
