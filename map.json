@@ -920,17 +920,17 @@
         {
          "name":"audioCopyright",
          "type":"string",
-         "value":"selbst aufgenommen"
+         "value":"Krach on MapProp"
         }, 
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Muh Credits: WorkAdventure (https:\/\/WorkAdventu.re) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Credits: Hendrik Wittig \nB\u00fcrgernetz Gera-Greiz e.V. \nWorkAdventure (https:\/\/WorkAdventu.re) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Karte f\u00fcr den Namespace ffggrz"
+         "value":"Namespace - der Hackerspace des B\u00fcrgernetz Gera-Greiz eV"
         }, 
         {
          "name":"mapImage",
@@ -940,12 +940,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"_\/6tkirfzxbo\/hendrikw78.github.io\/Workadv2\/map.json"
+         "value":"https:\/\/kraut.world"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"An der Salzstrasse - Namespace"
+         "value":"Namespace"
         }, 
         {
          "name":"script",
@@ -955,7 +955,7 @@
         {
          "name":"tilesetCopyright",
          "type":"string",
-         "value":"PiPo, Workadv. und weitere"
+         "value":"tilemap"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.9.2",

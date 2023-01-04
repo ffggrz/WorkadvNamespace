@@ -318,14 +318,19 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"audioCopyright",
+         "type":"string",
+         "value":"Krach on MapProp"
+        }, 
+        {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: WorkAdventure (https:\/\/WorkAdventu.re) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Credits: Hendrik Wittig \nB\u00fcrgernetz Gera-Greiz e.V. \nWorkAdventure (https:\/\/WorkAdventu.re) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Namespace - der Hackerspace des B\u00fcrgernetz Gera-Greiz eV"
         }, 
         {
          "name":"mapImage",
@@ -335,17 +340,22 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"https:\/\/kraut.world"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Namespace"
         }, 
         {
          "name":"script",
          "type":"string",
          "value":"src\/main.ts"
+        }, 
+        {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"tilemap"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
