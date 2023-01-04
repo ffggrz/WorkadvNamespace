@@ -241,7 +241,7 @@
             3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
             3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
             3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
-            3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 8, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
+            3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
             3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 8, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
             3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
             3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0,
@@ -709,6 +709,45 @@
                  "width":373.293999329534,
                  "x":487.778746228629,
                  "y":894.235668789809
+                }, 
+                {
+                 "class":"area",
+                 "height":97,
+                 "id":19,
+                 "name":"Kaffee",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/github.com\/ffggrz\/WorkadvNamespace\/blob\/master\/toene\/KaMaGro\u00df.mp3?raw=true"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":59,
+                 "x":402.333333333333,
+                 "y":906.666666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":47.6666666666667,
+                 "id":20,
+                 "name":"Monitorwand",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.freifunk-gera-greiz.de\/page\/namespace\/bau-einer-monitorwand-fuer-hey-alter"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":75.6666666666667,
+                 "x":405.666666666667,
+                 "y":1075.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -870,7 +909,7 @@
          "y":0
         }],
  "nextlayerid":64,
- "nextobjectid":19,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {
