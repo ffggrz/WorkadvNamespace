@@ -969,6 +969,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"WA_Special_Zones",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Wege und Wohin"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -1175,6 +1181,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"bonfire",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Feuer"
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
