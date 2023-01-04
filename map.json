@@ -1146,6 +1146,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"[A]Grass2_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Gras ist Gr\u00fcn"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
