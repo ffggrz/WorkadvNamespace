@@ -920,7 +920,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Namespace - der Hackerspace des B\u00fcrgernetz Gera eV"
         }, 
         {
          "name":"mapImage",
@@ -930,7 +930,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"https:\/\/kraut.world"
         }, 
         {
          "name":"mapName",
@@ -941,6 +941,11 @@
          "name":"script",
          "type":"string",
          "value":"src\/main.ts"
+        }, 
+        {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"tilemap"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
@@ -1115,6 +1120,16 @@
          "spacing":0,
          "tilecount":904,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Tilecopy Tiled"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
