@@ -787,6 +787,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/data.meine-kleine-seite.de\/3D-Drucker1.jpg"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":20
                         }],
                  "rotation":0,
                  "visible":true,
