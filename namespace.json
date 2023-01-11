@@ -776,6 +776,23 @@
                  "width":75.6666666666667,
                  "x":405.666666666667,
                  "y":1075.33333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":112,
+                 "id":26,
+                 "name":"3DDrucker",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/data.meine-kleine-seite.de\/3D-Drucker1.jpg"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":57.3333,
+                 "x":798.000016666667,
+                 "y":676
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -937,7 +954,7 @@
          "y":0
         }],
  "nextlayerid":64,
- "nextobjectid":26,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {
