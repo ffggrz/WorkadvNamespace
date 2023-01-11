@@ -723,9 +723,26 @@
                 }, 
                 {
                  "class":"area",
+                 "height":112,
+                 "id":23,
+                 "name":"KaffeeWerner",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/AVvLZqIKhNc"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":57.3333333333333,
+                 "x":376,
+                 "y":276
+                }, 
+                {
+                 "class":"area",
                  "height":97,
                  "id":19,
-                 "name":"Kaffee",
+                 "name":"KaffeeSpace",
                  "properties":[
                         {
                          "name":"audioLoop",
@@ -920,7 +937,7 @@
          "y":0
         }],
  "nextlayerid":64,
- "nextobjectid":23,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
