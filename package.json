@@ -11,7 +11,7 @@
   "devDependencies": {
     "@types/node": "^17.0.36",
     "typescript": "^4.5.4",
-    "vite": "^3.2.11",
+    "vite": "^5.4.8",
     "wa-map-optimizer-vite": "^1.1.5"
   },
   "dependencies": {
