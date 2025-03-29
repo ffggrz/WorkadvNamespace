@@ -230,7 +230,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.json#entryNamespace"
+                         "value":"map.tmj#entryNamespace"
                         }],
                  "type":"tilelayer",
                  "visible":true,
