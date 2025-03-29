@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"namespace.json#startKlo"
+                 "value":"namespace.tmj#startKlo"
                 }],
          "type":"tilelayer",
          "visible":true,
