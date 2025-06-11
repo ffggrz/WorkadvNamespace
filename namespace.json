@@ -608,18 +608,17 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
                  "height":61.6672851518306,
                  "id":12,
                  "name":"clockPopup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":93.7162209047986,
                  "x":455.114095764025,
                  "y":175.120106417497
                 }, 
                 {
-                 "class":"area",
                  "height":151.257123700972,
                  "id":17,
                  "name":"Rauschen2",
@@ -635,13 +634,13 @@
                          "value":"https:\/\/github.com\/ffggrz\/WorkadvNamespace\/blob\/master\/toene\/Meeresrauschen2.mp3?raw=true"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":314.314448541737,
                  "x":22.5276567214214,
                  "y":1042.70868253436
                 }, 
                 {
-                 "class":"area",
                  "height":166.618840093865,
                  "id":13,
                  "name":"jitsiChillZone",
@@ -667,13 +666,13 @@
                          "value":2
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":185.563526651022,
                  "x":675.945692256118,
                  "y":465.690579953067
                 }, 
                 {
-                 "class":"area",
                  "height":154,
                  "id":14,
                  "name":"silentZone",
@@ -684,13 +683,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":318,
                  "x":22.5092189071405,
                  "y":1044.29098223265
                 }, 
                 {
-                 "class":"area",
                  "height":224,
                  "id":16,
                  "name":"jitsiMeetingRoom",
@@ -716,13 +715,13 @@
                          "value":1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":373.293999329534,
                  "x":487.778746228629,
                  "y":894.235668789809
                 }, 
                 {
-                 "class":"area",
                  "height":112,
                  "id":23,
                  "name":"KaffeeWerner",
@@ -733,13 +732,13 @@
                          "value":"https:\/\/www.youtube.com\/embed\/AVvLZqIKhNc"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":57.3333333333333,
                  "x":376,
                  "y":276
                 }, 
                 {
-                 "class":"area",
                  "height":97,
                  "id":19,
                  "name":"KaffeeSpace",
@@ -755,13 +754,13 @@
                          "value":"https:\/\/github.com\/ffggrz\/WorkadvNamespace\/blob\/master\/toene\/KaMaKurz.mp3?raw=true"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":59,
                  "x":402.333333333333,
                  "y":906.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":47.6666666666667,
                  "id":20,
                  "name":"Monitorwand",
@@ -769,16 +768,16 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.freifunk-gera-greiz.de\/page\/namespace\/bau-einer-monitorwand-fuer-hey-alter#gallery4a10fd4b09-5"
+                         "value":"https:\/\/www.buergernetz-gera-greiz.de\/namespace\/bau-einer-monitorwand-fuer-hey-alter?tmpl=component#gallery4a10fd4b09-5"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":75.6666666666667,
                  "x":405.666666666667,
                  "y":1075.33333333333
                 }, 
                 {
-                 "class":"area",
                  "height":112,
                  "id":26,
                  "name":"3DDrucker",
@@ -794,6 +793,7 @@
                          "value":20
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":57.3333,
                  "x":798.000016666667,
@@ -1003,7 +1003,7 @@
          "value":"tilemap"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.11.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1228,6 +1228,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.11",
  "width":30
 }
