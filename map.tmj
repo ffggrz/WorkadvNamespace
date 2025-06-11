@@ -109,7 +109,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"namespace.json#startAnfang"
+                         "value":"namespace.tmj#startAnfang"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -227,7 +227,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"kanal1.json#anfang&moveTo=exitNamespace"
+                         "value":"kanal1.tmj#anfang&moveTo=exitNamespace"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -698,7 +698,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.freifunk-gera-greiz.de\/namespace"
+                         "value":"https:\/\/www.buergernetz-gera-greiz.de\/namespace"
                         }],
                  "rotation":0,
                  "visible":true,
